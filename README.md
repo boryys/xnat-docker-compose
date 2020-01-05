@@ -1,5 +1,9 @@
-# Dockerized XNAT
+# Dockerized XNAT + OHIF Viewer plugin
 Use this repository to quickly deploy an [XNAT](https://xnat.org/) instance on [docker](https://www.docker.com/).
+
+Repository of the OHIF Viewer plugin: https://bitbucket.org/ulaborys/ohif-viewer-xnat-plugin/
+
+Repository of the OHIF Viewer source code: https://bitbucket.org/ulaborys/ohif-viewer-xnat/
 
 ## Introduction
 
